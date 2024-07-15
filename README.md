@@ -18,7 +18,7 @@
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=CAI991108&theme=github-compact&hide_border=true&area=true" />
 <br/>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=CAI991108&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=CAI991108&theme=transparent&hide_border=true&layout=compact&langs_count=22&v=2" />
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAI991108&layout=donut-vertical&theme=transparent&hide_border=true&langs_count=6" />
 <br/>
