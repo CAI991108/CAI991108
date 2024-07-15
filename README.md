@@ -37,5 +37,5 @@
 
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=HELLO%20WORLD&fontSize=90&fontAlign=50&fontAlignY=70&desc=In%20Articulo%20Mortis%20,%20Caelitus%20Mihi%20Vires&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=临终之际%20神力天授&fontSize=90&fontAlign=50&fontAlignY=70&desc=In%20Articulo%20Mortis%20,%20Caelitus%20Mihi%20Vires&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
 </p>
