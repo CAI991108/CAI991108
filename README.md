@@ -34,10 +34,11 @@
 <p align="center">
 <a href="https://github.com/CAI991108"><img src="https://img.shields.io/badge/GitHub-CAI991108-blue?logo=github" /></a>
 <a href="https://wakatime.com/@0a1a641a-17e3-4bcf-8339-f02a8fb3a069"><img src="https://wakatime.com/badge/user/0a1a641a-17e3-4bcf-8339-f02a8fb3a069.svg" alt="Total time coded since Jul 14 2024" /></a>
+<img src="https://img.shields.io/badge/HuggingFace-jimchoi-yellow?logo=huggingface" />
 <img src="https://img.shields.io/badge/WeChat&Tel-13543750006-green?logo=wechat" />
 <img src="https://img.shields.io/badge/小红书-894752968-red?logo=Xiaohongshu" />
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=CAI991108&abbreviated=true&color=yellow" />
+<img src="https://komarev.com/ghpvc/?username=CAI991108&abbreviated=true&color=blue" />
 </p>
 
 <!-- https://github.com/kyechan99/capsule-render -->
