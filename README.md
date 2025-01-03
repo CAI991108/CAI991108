@@ -22,9 +22,13 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAI991108&layout=donut-vertical&theme=transparent&hide_border=true" />
 <br/>
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=CAI991108&layout=compact&theme=dark" alt="WakaTime Stats" />
+<br><br>
+  
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=linux,ubuntu,windows,anaconda,pycharm,vim,py,r,latex,tensorflow,pytorch,sklearn,matlab,react,vue&theme=light" />
-</p>
+<br/>
 
 <!-- https://github.com/badges/shields -->
 <p align="center">
