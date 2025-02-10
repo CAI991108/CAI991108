@@ -37,7 +37,12 @@
 <img src="https://komarev.com/ghpvc/?username=CAI991108&abbreviated=true&color=blue" />
 </p>
 
-<!-- https://github.com/kyechan99/capsule-render -->
-<!--p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=临终之际%20神力天授&fontSize=90&fontAlign=50&fontAlignY=70&desc=In%20Articulo%20Mortis%20,%20Caelitus%20Mihi%20Vires&descAlign=50&descSize=30&descAlignY=40&animation=twinkling" />
+
+<!-- 证书展示部分 -->
+<p align="center">
+  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+    <div style="border: 2px solid #ccc; padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+      <img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/1RxA0ROct65VdMufUO5ns.webp" width="300" />
+    </div>
+  </div>
 </p>
