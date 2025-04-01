@@ -37,13 +37,10 @@
 <img src="https://komarev.com/ghpvc/?username=CAI991108&abbreviated=true&color=blue" />
 </p>
 
-
 <!-- 证书展示部分 -->
-<p align="center">
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-    <div style="border: 2px solid #ccc; padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-      <img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/1RxA0ROct65VdMufUO5ns.webp" width="340" />
-      <img src="nv-cert1.png" width="300" />
-    </div>
-  </div>
-</p>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 20px;">
+  <div style="border: 2px solid #ccc; padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+    <img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/1RxA0ROct65VdMufUO5ns.webp" width="340" />
+  <img src="nv-cert1.png" width="300" />
+  <img src="nv-cert2.png" width="300" />
+</div>
