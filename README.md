@@ -41,6 +41,7 @@
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; margin-top: 20px;">
   <div style="border: 2px solid #ccc; padding: 10px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
     <img src="https://cdn-uploads.huggingface.co/production/uploads/noauth/1RxA0ROct65VdMufUO5ns.webp" width="410" />
-  <img src="nv-cert1.png" width="360" />
-  <img src="nv-cert2.png" width="360" />
+    <img src="Completed 5-Day Gen AI Intensive.png" width="470" />
+    <img src="nv-cert1.png" width="360" />
+    <img src="nv-cert2.png" width="360" />
 </div>
