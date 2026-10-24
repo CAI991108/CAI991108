@@ -15,6 +15,18 @@
   <a href="https://github.com/CAI991108">GitHub</a>
 </p>
 
+```console
+$ whoami
+zijin — phd.ai @ cuhksz
+$ cat focus.txt
+multimodal · diffusion · agents
+$ ls ~/work
+omarchy-NTE  dsh-studios
+crossledger  crossbooks
+$ tail -1 ~/.plan
+ship tools that outlive the hype
+```
+
 ## Featured
 
 <p align="center">
