@@ -65,6 +65,33 @@ operational decision-making.
 I work on the engineering side of that agenda: the systems that carry the models into daily operations
 (`crossledger`, `crossbooks`), mostly TypeScript, Vue and Python. Most of that code is private.
 
+## Applied @ CROSS Lab
+
+Private systems I build for the [CUHK(SZ)–CROSS Joint Laboratory](https://github.com/CUHKSZ-CROSS-Lab) —
+architecture and stack, source stays closed:
+
+- **CrossLedger** — three-surface ledger automation: a NestJS API, a Vue workbench and a Python
+  desktop executor, with Keycloak SSO, Postgres, MinIO object storage, XState-persisted tasks,
+  OpenAPI contracts shared by TypeScript and Python, and Playwright browser acceptance.
+- **CrossBooks** — document intake and verification workbench: per-company authorisation, versioned
+  originals, conflict-safe drafts, Postgres, Docker-first bootstrap.
+- **CROSS-Studios** — internal skill library for AI video production, shipped with its own QA gate.
+
+<p>
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-1e1e2e?style=flat-square&logo=nestjs&logoColor=89b4fa" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-1e1e2e?style=flat-square&logo=vuedotjs&logoColor=a6e3a1" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=89b4fa" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=f9e2af" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1e1e2e?style=flat-square&logo=postgresql&logoColor=74c7ec" />
+</p>
+<p>
+  <img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-1e1e2e?style=flat-square&logo=keycloak&logoColor=89b4fa" />
+  <img alt="MinIO" src="https://img.shields.io/badge/MinIO-1e1e2e?style=flat-square&logo=minio&logoColor=f38ba8" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-1e1e2e?style=flat-square&logo=docker&logoColor=89b4fa" />
+  <img alt="XState" src="https://img.shields.io/badge/XState-1e1e2e?style=flat-square&logo=xstate&logoColor=cba6f7" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-1e1e2e?style=flat-square&logo=playwright&logoColor=a6e3a1" />
+</p>
+
 ## Focus
 
 <p>
