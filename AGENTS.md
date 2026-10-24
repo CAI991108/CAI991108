@@ -69,6 +69,19 @@ Select-String -Path README.md -Pattern '<img' | Select-Object -ExpandProperty Li
 
 Target: `style=` count 0, image total ≤ 400 KB, at least two `##` headings.
 
+## Preview
+
+GitHub renders the README, so previews must go through GitHub's own renderer:
+
+```powershell
+pwsh -File .scratch/preview/build.ps1      # renders README.md (+ v2 draft) to .scratch/preview/
+node .scratch/preview/serve.mjs            # http://127.0.0.1:8123/
+```
+
+Pages: `/` (current README), `/v2-light.html`, `/v2-dark.html`. The server does
+**not** survive a harness restart — rebuild and restart it, then open the URL in
+the sidebar. See `.scratch/profile-redesign/HANDOFF.md` §7.
+
 ## Delivery
 
 Credentials cannot be supplied by a git credential helper in this environment —
