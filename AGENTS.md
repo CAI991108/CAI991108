@@ -4,6 +4,13 @@ This repository **is** the GitHub profile page. Whatever lands in `README.md` is
 rendered at <https://github.com/CAI991108> for every visitor. Treat it as a
 published artefact, not a scratchpad.
 
+## Start here
+
+Read `.scratch/profile-redesign/HANDOFF.md` before touching anything: it carries the
+current commit, the locked design decisions, the three open threads, and this
+machine's environment workarounds. `.scratch/profile-redesign/v2-draft.md` is the
+next README waiting on approval.
+
 ## Agent skills
 
 ### Issue tracker
