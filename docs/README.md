@@ -20,5 +20,10 @@ docs/private/certificates/...
 
 ## 规划产物
 
-- `research/` —— 调研笔记（已有引用来源，会提交）
-- `research/profile-spec.md` —— 主页规格（区块、组件、设计系统、验收标准）
+- `research/` —— 调研笔记（有引用来源，会提交）
+- `.scratch/profile-redesign/` —— 规格与实现票（本地，已 gitignore）
+- `docs/agents/` —— skills 配置：issue tracker、triage 标签、领域词表
+- `AGENTS.md` —— agent 入口：硬约束、布局、验证、推送方式
+
+主页规格从 `research/profile-spec.md` 移到了 `.scratch/profile-redesign/spec.md`，
+遵循 `docs/agents/issue-tracker.md` 里约定的本地 tracker 布局。

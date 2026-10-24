@@ -9,6 +9,10 @@ desktop.ini
 docs/private/
 *.pdf
 
+# Local working state (spec + tickets, per docs/agents/issue-tracker.md)
+.scratch/
+.tmp/
+
 # Local tooling
 node_modules/
 .venv/
