@@ -1,19 +1,18 @@
 <h1 align="center">Zijin CAI</h1>
 
 <p align="center">
-  <b>PhD student in AI</b> · The Chinese University of Hong Kong, Shenzhen
+  <b>PhD student in AI</b> · CUHK-Shenzhen · Research Fellow @ <a href="https://github.com/CUHKSZ-CROSS-Lab">CROSS Joint Lab</a>
 </p>
 
 <p align="center">
-  Multimodal models · generative artefacts · language agents
+  <a href="https://cai991108.github.io/"><img alt="site: cai991108.github.io" src="https://img.shields.io/badge/site-cai991108.github.io-89b4fa?style=flat-square&logo=githubpages&logoColor=1e1e2e" /></a>
+  <a href="mailto:zijincai@link.cuhk.edu.cn"><img alt="mail: zijincai@link.cuhk.edu.cn" src="https://img.shields.io/badge/mail-zijincai@link.cuhk.edu.cn-a6e3a1?style=flat-square&logo=gmail&logoColor=1e1e2e" /></a>
+  <a href="https://huggingface.co/jimchoi"><img alt="Hugging Face: jimchoi" src="https://img.shields.io/badge/Hugging%20Face-jimchoi-f9e2af?style=flat-square&logo=huggingface&logoColor=1e1e2e" /></a>
+  <a href="https://github.com/CAI991108"><img alt="GitHub: CAI991108" src="https://img.shields.io/badge/GitHub-CAI991108-b4befe?style=flat-square&logo=github&logoColor=1e1e2e" /></a>
+  <a href="https://wakatime.com/@CAI991108"><img alt="Total time coded since July 2024" src="https://wakatime.com/badge/user/0a1a641a-17e3-4bcf-8339-f02a8fb3a069.svg" /></a>
 </p>
 
-<p align="center">
-  <a href="https://cai991108.github.io/">Website</a> ·
-  <a href="mailto:zijincai@link.cuhk.edu.cn">Email</a> ·
-  <a href="https://huggingface.co/jimchoi">Hugging Face</a> ·
-  <a href="https://github.com/CAI991108">GitHub</a>
-</p>
+> **Now:** shipping **omarchy-NTE** · building **dsh-studios** · multimodal models and agents
 
 ```console
 $ whoami
@@ -27,142 +26,93 @@ $ tail -1 ~/.plan
 ship tools that outlive the hype
 ```
 
-## Featured
+## Stack
 
-<p align="center">
-  <a href="https://github.com/CAI991108/omarchy-NTE"><img width="820" alt="omarchy-NTE: a Catppuccin Mocha Omarchy desktop with the DSH skin pack" src="https://raw.githubusercontent.com/CAI991108/omarchy-NTE/main/assets/hero.webp" /></a>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-89b4fa?style=flat-square&logo=python&logoColor=1e1e2e" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-89b4fa?style=flat-square&logo=typescript&logoColor=1e1e2e" />
+  <img alt="R" src="https://img.shields.io/badge/R-89b4fa?style=flat-square&logo=r&logoColor=1e1e2e" />
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-89b4fa?style=flat-square&logo=latex&logoColor=1e1e2e" />
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-89b4fa?style=flat-square&logo=gnubash&logoColor=1e1e2e" />
+</p>
+<p>
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-cba6f7?style=flat-square&logo=pytorch&logoColor=1e1e2e" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-cba6f7?style=flat-square&logo=tensorflow&logoColor=1e1e2e" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-cba6f7?style=flat-square&logo=scikitlearn&logoColor=1e1e2e" />
+  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-cba6f7?style=flat-square&logo=nvidia&logoColor=1e1e2e" />
+</p>
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-94e2d5?style=flat-square&logo=postgresql&logoColor=1e1e2e" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-94e2d5?style=flat-square&logo=docker&logoColor=1e1e2e" />
+  <img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-94e2d5?style=flat-square&logo=keycloak&logoColor=1e1e2e" />
+  <img alt="MinIO" src="https://img.shields.io/badge/MinIO-94e2d5?style=flat-square&logo=minio&logoColor=1e1e2e" />
+  <img alt="nginx" src="https://img.shields.io/badge/nginx-94e2d5?style=flat-square&logo=nginx&logoColor=1e1e2e" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-94e2d5?style=flat-square&logo=linux&logoColor=1e1e2e" />
+</p>
+<p>
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-a6e3a1?style=flat-square&logo=vuedotjs&logoColor=1e1e2e" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-a6e3a1?style=flat-square&logo=nodedotjs&logoColor=1e1e2e" />
+  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-a6e3a1?style=flat-square&logo=nestjs&logoColor=1e1e2e" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-a6e3a1?style=flat-square&logo=playwright&logoColor=1e1e2e" />
+  <img alt="XState" src="https://img.shields.io/badge/XState-a6e3a1?style=flat-square&logo=xstate&logoColor=1e1e2e" />
+  <img alt="Remotion" src="https://img.shields.io/badge/Remotion-a6e3a1?style=flat-square&logo=remotion&logoColor=1e1e2e" />
+</p>
+<p>
+  <img alt="Arch" src="https://img.shields.io/badge/Arch-fab387?style=flat-square&logo=archlinux&logoColor=1e1e2e" />
+  <img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-fab387?style=flat-square&logo=hyprland&logoColor=1e1e2e" />
+  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-fab387?style=flat-square&logo=neovim&logoColor=1e1e2e" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-fab387?style=flat-square&logo=git&logoColor=1e1e2e" />
 </p>
 
-**omarchy-NTE** — a Catppuccin Mocha Omarchy bundle (Hyprland, Waybar, fcitx5, Neovim) with a
-matching **DSH** skin pack: two local plugins, six bundled widgets, and a `dsh-wakatime` bridge
-that turns DSH file edits into real WakaTime heartbeats.
+## Pinned
 
-**dsh-studios** — a film-production pipeline shipped as a DSH skill: one source of truth,
-a derived timeline, a Remotion render, and an automated QA gate that refuses to call a cut done
-until the ledger is clean.
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/CAI991108/omarchy-NTE"><img alt="omarchy-NTE" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=omarchy-NTE&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=cba6f7" /></a></td>
+<td width="50%"><a href="https://github.com/CAI991108/dsh-studios"><img alt="dsh-studios" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=dsh-studios&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=cba6f7" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/CAI991108/JD_search_agent"><img alt="JD_search_agent" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=JD_search_agent&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=cba6f7" /></a></td>
+<td width="50%"><a href="https://github.com/CAI991108/SD3M-SimpleTuner-lora"><img alt="SD3M-SimpleTuner-lora" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=SD3M-SimpleTuner-lora&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=cba6f7" /></a></td>
+</tr>
+</table>
 
-<p align="center">
-  <a href="https://github.com/CAI991108/omarchy-NTE"><img alt="omarchy-NTE stars" src="https://img.shields.io/github/stars/CAI991108/omarchy-NTE?style=flat-square&labelColor=1e1e2e&color=f9e2af&logo=github&logoColor=cdd6f4" /></a>
-  <a href="https://github.com/CAI991108/omarchy-NTE/commits"><img alt="omarchy-NTE last commit" src="https://img.shields.io/github/last-commit/CAI991108/omarchy-NTE?style=flat-square&labelColor=1e1e2e&color=89b4fa" /></a>
-  <img alt="Omarchy" src="https://img.shields.io/badge/Omarchy-3.8.2-89b4fa?style=flat-square&labelColor=1e1e2e" />
-  <img alt="DSH" src="https://img.shields.io/badge/DSH-0.2.1--rc.2-cba6f7?style=flat-square&labelColor=1e1e2e" />
-  <a href="https://github.com/CAI991108/dsh-studios"><img alt="dsh-studios" src="https://img.shields.io/badge/dsh--studios-film_pipeline-a6e3a1?style=flat-square&labelColor=1e1e2e&logo=remotion&logoColor=a6e3a1" /></a>
-</p>
+## Private systems
 
-## Now
+Built for the [CUHK(SZ)–CROSS Joint Laboratory](https://github.com/CUHKSZ-CROSS-Lab). Architecture and
+stack, source stays closed:
 
-- **PhD in AI** at CUHK-Shenzhen — multimodal perception and generative models.
-- **Research Fellow** at the [CUHK(SZ)–CROSS Joint Laboratory](https://github.com/CUHKSZ-CROSS-Lab) — AI for cross-border e-commerce.
-- Research intern at the **Shenzhen Research Institute of Big Data** (2025) — OCR text detection and recognition.
-- Before AI: three years as a **quant researcher** — Python systems, back-testing, live trading.
+| Project | What it is | Stack |
+| :-- | :-- | :-- |
+| **CrossLedger** | Three-surface ledger automation: NestJS API, Vue workbench, Python desktop executor — Keycloak SSO, Postgres, MinIO, XState-persisted tasks, Playwright acceptance | `NestJS` `Vue` `Postgres` `Keycloak` `MinIO` |
+| **CrossBooks** | Document intake and verification: per-company authorisation, versioned originals, conflict-safe drafts | `Vue` `Postgres` `Docker` |
+| **CROSS-Studios** | Internal skill library for AI video production, shipped with its own QA gate | `Python` `DSH` |
+
+Coursework lives in the `*-Utils` repos; the CUHK-SZ LaTeX template is [here](https://github.com/CAI991108/CUHKSZ-SAI-LaTeX_Template).
+
+## Signals
+
+<table align="center">
+<tr>
+<td width="50%" align="center"><img width="400" alt="GitHub stats: stars, commits and PRs" src="https://github-readme-stats.vercel.app/api?username=CAI991108&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4&icon_color=cba6f7" /></td>
+<td width="50%" align="center" rowspan="2"><img width="400" alt="Most used languages by bytes of code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAI991108&layout=compact&langs_count=12&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4" /></td>
+</tr>
+<tr>
+<td width="50%" align="center"><img width="400" alt="Current and longest contribution streak" src="https://streak-stats.demolab.com?user=CAI991108&hide_border=true&background=1e1e2e&ring=89b4fa&fire=fab387&currStreakLabel=cdd6f4&sideLabels=cdd6f4&dates=6c7086" /></td>
+</tr>
+</table>
 
 <details>
-<summary>中文简介</summary>
+<summary><b>Weekly coding stats</b></summary>
 
-CUHK(SZ) 人工智能博士生，研究方向是多模态感知与生成模型。同时在 CUHK(SZ)–CROSS 联合实验室做跨境电商方向的 AI 研究与工程。
-
-在深圳市大数据研究院实习时用 MindOCR 做文本检测与识别；在那之前做了三年量化研究，写 Python 系统、做回测、跑实盘。
-
-现在主要在做多模态模型与语言 agent 的工程实现。
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </details>
 
 ## Lab
 
-**Research Fellow** at the [CUHK(Shenzhen) – CROSS Joint Laboratory](https://github.com/CUHKSZ-CROSS-Lab),
-a joint lab of the School of Artificial Intelligence and Shenzhen Kuafu-Yundun Technology, working on AI
-for cross-border e-commerce — data governance, demand forecasting, risk control, and LLM applications in
-operational decision-making.
-
-I work on the engineering side of that agenda: the systems that carry the models into daily operations
-(`crossledger`, `crossbooks`), mostly TypeScript, Vue and Python. Most of that code is private.
-
-## Applied @ CROSS Lab
-
-Private systems I build for the [CUHK(SZ)–CROSS Joint Laboratory](https://github.com/CUHKSZ-CROSS-Lab) —
-architecture and stack, source stays closed:
-
-- **CrossLedger** — three-surface ledger automation: a NestJS API, a Vue workbench and a Python
-  desktop executor, with Keycloak SSO, Postgres, MinIO object storage, XState-persisted tasks,
-  OpenAPI contracts shared by TypeScript and Python, and Playwright browser acceptance.
-- **CrossBooks** — document intake and verification workbench: per-company authorisation, versioned
-  originals, conflict-safe drafts, Postgres, Docker-first bootstrap.
-- **CROSS-Studios** — internal skill library for AI video production, shipped with its own QA gate.
-
-<p>
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-1e1e2e?style=flat-square&logo=nestjs&logoColor=89b4fa" />
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-1e1e2e?style=flat-square&logo=vuedotjs&logoColor=a6e3a1" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-1e1e2e?style=flat-square&logo=typescript&logoColor=89b4fa" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-1e1e2e?style=flat-square&logo=python&logoColor=f9e2af" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-1e1e2e?style=flat-square&logo=postgresql&logoColor=74c7ec" />
-</p>
-<p>
-  <img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-1e1e2e?style=flat-square&logo=keycloak&logoColor=89b4fa" />
-  <img alt="MinIO" src="https://img.shields.io/badge/MinIO-1e1e2e?style=flat-square&logo=minio&logoColor=f38ba8" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-1e1e2e?style=flat-square&logo=docker&logoColor=89b4fa" />
-  <img alt="XState" src="https://img.shields.io/badge/XState-1e1e2e?style=flat-square&logo=xstate&logoColor=cba6f7" />
-  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-1e1e2e?style=flat-square&logo=playwright&logoColor=a6e3a1" />
-</p>
-
-## Focus
-
-<p>
-  <img alt="Multimodal LLMs" src="https://img.shields.io/badge/Multimodal_LLMs-0969DA?style=flat&logoColor=white" />
-  <img alt="Audio-Language Models" src="https://img.shields.io/badge/Audio--Language_Models-0969DA?style=flat&logoColor=white" />
-  <img alt="Diffusion Models" src="https://img.shields.io/badge/Diffusion_Models-0969DA?style=flat&logoColor=white" />
-  <img alt="Language Agents" src="https://img.shields.io/badge/Language_Agents-0969DA?style=flat&logoColor=white" />
-  <img alt="Document AI" src="https://img.shields.io/badge/Document_AI-0969DA?style=flat&logoColor=white" />
-</p>
-
-## Selected work
-
-| Project | What it does | Stack |
-| :-- | :-- | :-- |
-| **[JD_search_agent](https://github.com/CAI991108/JD_search_agent)** | Stateful shopping assistant: text + image-OCR retrieval, orchestrated as a LangGraph state machine | LangGraph · Qwen-VL · Playwright |
-| **[Robotic-Action-Frame-Prediction](https://github.com/CAI991108/Robotic-Action-Frame-Prediction-with-InstructPix2Pix)** | Fine-tuned InstructPix2Pix that predicts a robot's next frames at 256×256 | PyTorch · Diffusers |
-| **[SD3M-SimpleTuner-lora](https://github.com/CAI991108/SD3M-SimpleTuner-lora)** | LoRA fine-tune of Stable Diffusion 3 Medium; weights published on Hugging Face | Diffusers · LoRA |
-| **[Machine-Learning-and-Language-Model](https://github.com/CAI991108/Machine-Learning-and-Language-Model)** | GPT-2 / Llama pre-training and fine-tuning, LoRA + BAdam memory tricks, GSM8K evaluation | PyTorch · Transformers |
-
-Coursework in NLP, deep learning, ML, computer vision and optimisation lives in the `*-Utils` repositories. The CUHK-SZ LaTeX template I maintain is [here](https://github.com/CAI991108/CUHKSZ-SAI-LaTeX_Template).
-
-## Toolbox
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-0969DA?style=flat&logo=python&logoColor=white" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-0969DA?style=flat&logo=pytorch&logoColor=white" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-0969DA?style=flat&logo=tensorflow&logoColor=white" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0969DA?style=flat&logo=scikitlearn&logoColor=white" />
-</p>
-<p>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0969DA?style=flat&logo=typescript&logoColor=white" />
-  <img alt="Vue" src="https://img.shields.io/badge/Vue-0969DA?style=flat&logo=vuedotjs&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0969DA?style=flat&logo=nodedotjs&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-0969DA?style=flat&logo=docker&logoColor=white" />
-</p>
-<p>
-  <img alt="Shell" src="https://img.shields.io/badge/Shell-0969DA?style=flat&logo=gnubash&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/R-0969DA?style=flat&logo=r&logoColor=white" />
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-0969DA?style=flat&logo=latex&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-0969DA?style=flat&logo=linux&logoColor=white" />
-</p>
-
-## Coding activity
-
-<p align="center">
-  <img width="400" alt="GitHub stats: stars, commits and PRs" src="https://github-readme-stats.vercel.app/api?username=CAI991108&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&cache_seconds=86400" />
-  <img width="400" alt="Current and longest contribution streak" src="https://streak-stats.demolab.com?user=CAI991108&hide_border=true&theme=transparent" />
-  <br/>
-  <img width="400" alt="Most used languages by bytes of code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAI991108&layout=donut-vertical&theme=transparent&hide_border=true&langs_count=8" />
-  <br/>
-  <img width="800" alt="Contribution activity over the last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=CAI991108&theme=github-compact&hide_border=true&area=true" />
-  <br/>
-  <img width="800" alt="GitHub trophies" src="https://github-profile-trophy.vercel.app/?username=CAI991108&no-frame=true&column=7&margin-w=8" />
-</p>
-
-<p align="center">
-  <a href="https://wakatime.com/@CAI991108"><img alt="Total time coded since July 2024" src="https://wakatime.com/badge/user/0a1a641a-17e3-4bcf-8339-f02a8fb3a069.svg" /></a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=CAI991108&color=0969DA&abbreviated=true" />
-</p>
+**Research Fellow** at the [CUHK(Shenzhen) – CROSS Joint Laboratory](https://github.com/CUHKSZ-CROSS-Lab), a joint lab of the School of Artificial Intelligence and Shenzhen Kuafu-Yundun Technology, working on AI for cross-border e-commerce — data governance, demand forecasting, risk control and LLM applications.
 
 ## Awards
 
@@ -180,7 +130,11 @@ Coursework in NLP, deep learning, ML, computer vision and optimisation lives in 
 
 </details>
 
-## Contact
+<details>
+<summary>中文简介</summary>
 
-Open to research collaborations and internships. The fastest way to reach me is
-[zijincai@link.cuhk.edu.cn](mailto:zijincai@link.cuhk.edu.cn); I am based in Shenzhen.
+CUHK(SZ) 人工智能博士生，研究方向是多模态感知与生成模型。同时在 CUHK(SZ)–CROSS 联合实验室做跨境电商方向的 AI 研究与工程。
+
+在深圳市大数据研究院实习时用 MindOCR 做文本检测与识别；在那之前做了三年量化研究，写 Python 系统、做回测、跑实盘。
+
+</details>
