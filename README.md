@@ -18,19 +18,30 @@
 ## Now
 
 - **PhD in AI** at CUHK-Shenzhen — multimodal perception and generative models.
+- **Research Fellow** at the [CUHK(SZ)–CROSS Joint Laboratory](https://github.com/CUHKSZ-CROSS-Lab) — AI for cross-border e-commerce.
 - Research intern at the **Shenzhen Research Institute of Big Data** (2025) — OCR text detection and recognition.
 - Before AI: three years as a **quant researcher** — Python systems, back-testing, live trading.
 
 <details>
 <summary>中文简介</summary>
 
-CUHK(SZ) 人工智能博士生，研究方向是多模态感知与生成模型。
+CUHK(SZ) 人工智能博士生，研究方向是多模态感知与生成模型。同时在 CUHK(SZ)–CROSS 联合实验室做跨境电商方向的 AI 研究与工程。
 
 在深圳市大数据研究院实习时用 MindOCR 做文本检测与识别；在那之前做了三年量化研究，写 Python 系统、做回测、跑实盘。
 
 现在主要在做多模态模型与语言 agent 的工程实现。
 
 </details>
+
+## Lab
+
+**Research Fellow** at the [CUHK(Shenzhen) – CROSS Joint Laboratory](https://github.com/CUHKSZ-CROSS-Lab),
+a joint lab of the School of Artificial Intelligence and Shenzhen Kuafu-Yundun Technology, working on AI
+for cross-border e-commerce — data governance, demand forecasting, risk control, and LLM applications in
+operational decision-making.
+
+I work on the engineering side of that agenda: the systems that carry the models into daily operations
+(`crossledger`, `crossbooks`), mostly TypeScript, Vue and Python. Most of that code is private.
 
 ## Focus
 
@@ -62,10 +73,16 @@ Coursework in NLP, deep learning, ML, computer vision and optimisation lives in 
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-0969DA?style=flat&logo=scikitlearn&logoColor=white" />
 </p>
 <p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0969DA?style=flat&logo=typescript&logoColor=white" />
+  <img alt="Vue" src="https://img.shields.io/badge/Vue-0969DA?style=flat&logo=vuedotjs&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0969DA?style=flat&logo=nodedotjs&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0969DA?style=flat&logo=docker&logoColor=white" />
+</p>
+<p>
+  <img alt="Shell" src="https://img.shields.io/badge/Shell-0969DA?style=flat&logo=gnubash&logoColor=white" />
   <img alt="R" src="https://img.shields.io/badge/R-0969DA?style=flat&logo=r&logoColor=white" />
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-0969DA?style=flat&logo=latex&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-0969DA?style=flat&logo=linux&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0969DA?style=flat&logo=typescript&logoColor=white" />
 </p>
 
 ## Coding activity
