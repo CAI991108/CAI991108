@@ -24,7 +24,11 @@
 <details>
 <summary>中文简介</summary>
 
-CUHK-Shenzhen 人工智能博士生，做多模态与生成模型。此前在深圳做量化研究三年，现在把工程直觉用在模型上。
+CUHK(SZ) 人工智能博士生，研究方向是多模态感知与生成模型。
+
+在深圳市大数据研究院实习时用 MindOCR 做文本检测与识别；在那之前做了三年量化研究，写 Python 系统、做回测、跑实盘。
+
+现在主要在做多模态模型与语言 agent 的工程实现。
 
 </details>
 
@@ -71,7 +75,6 @@ Coursework in NLP, deep learning, ML, computer vision and optimisation lives in 
   <img width="400" alt="Current and longest contribution streak" src="https://streak-stats.demolab.com?user=CAI991108&hide_border=true&theme=transparent" />
   <br/>
   <img width="400" alt="Most used languages by bytes of code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAI991108&layout=donut-vertical&theme=transparent&hide_border=true&langs_count=8" />
-  <img width="400" alt="WakaTime: time coded by language" src="https://github-readme-stats.vercel.app/api/wakatime?username=CAI991108&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
   <br/>
   <img width="800" alt="Contribution activity over the last 31 days" src="https://github-readme-activity-graph.vercel.app/graph?username=CAI991108&theme=github-compact&hide_border=true&area=true" />
   <br/>
@@ -79,6 +82,7 @@ Coursework in NLP, deep learning, ML, computer vision and optimisation lives in 
 </p>
 
 <p align="center">
+  <a href="https://wakatime.com/@CAI991108"><img alt="Total time coded since July 2024" src="https://wakatime.com/badge/user/0a1a641a-17e3-4bcf-8339-f02a8fb3a069.svg" /></a>
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=CAI991108&color=0969DA&abbreviated=true" />
 </p>
 
