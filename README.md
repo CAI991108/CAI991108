@@ -15,6 +15,28 @@
   <a href="https://github.com/CAI991108">GitHub</a>
 </p>
 
+## Featured
+
+<p align="center">
+  <a href="https://github.com/CAI991108/omarchy-NTE"><img width="820" alt="omarchy-NTE: a Catppuccin Mocha Omarchy desktop with the DSH skin pack" src="https://raw.githubusercontent.com/CAI991108/omarchy-NTE/main/assets/hero.webp" /></a>
+</p>
+
+**omarchy-NTE** — a Catppuccin Mocha Omarchy bundle (Hyprland, Waybar, fcitx5, Neovim) with a
+matching **DSH** skin pack: two local plugins, six bundled widgets, and a `dsh-wakatime` bridge
+that turns DSH file edits into real WakaTime heartbeats.
+
+**dsh-studios** — a film-production pipeline shipped as a DSH skill: one source of truth,
+a derived timeline, a Remotion render, and an automated QA gate that refuses to call a cut done
+until the ledger is clean.
+
+<p align="center">
+  <a href="https://github.com/CAI991108/omarchy-NTE"><img alt="omarchy-NTE stars" src="https://img.shields.io/github/stars/CAI991108/omarchy-NTE?style=flat-square&labelColor=1e1e2e&color=f9e2af&logo=github&logoColor=cdd6f4" /></a>
+  <a href="https://github.com/CAI991108/omarchy-NTE/commits"><img alt="omarchy-NTE last commit" src="https://img.shields.io/github/last-commit/CAI991108/omarchy-NTE?style=flat-square&labelColor=1e1e2e&color=89b4fa" /></a>
+  <img alt="Omarchy" src="https://img.shields.io/badge/Omarchy-3.8.2-89b4fa?style=flat-square&labelColor=1e1e2e" />
+  <img alt="DSH" src="https://img.shields.io/badge/DSH-0.2.1--rc.2-cba6f7?style=flat-square&labelColor=1e1e2e" />
+  <a href="https://github.com/CAI991108/dsh-studios"><img alt="dsh-studios" src="https://img.shields.io/badge/dsh--studios-film_pipeline-a6e3a1?style=flat-square&labelColor=1e1e2e&logo=remotion&logoColor=a6e3a1" /></a>
+</p>
+
 ## Now
 
 - **PhD in AI** at CUHK-Shenzhen — multimodal perception and generative models.
