@@ -176,3 +176,18 @@ Could not verify locally:
 - Live cache/rate-limit behaviour of the two hosts, and whether `github-readme-stats.vercel.app` currently serves the profile's cards at all.
 
 **Verified on 2026-10-25.**
+
+## Addendum — "just drop the background" is not the mechanism (measured 2026-10-25)
+
+The v1 profile (`cf36e4e`, `d0686ca`) did ship transparent cards, but through `theme=transparent`, not through `bg_color=00000000` alone. Measured on the live streak endpoint:
+
+| variant | text fills | on `#ffffff` | on `#0d1117` |
+|---|---|---|---|
+| `theme=transparent` | `006AFF` / `417E87` / `0579C3` | 4.66 / 4.61 / 4.64 | 4.06 / 4.11 / 4.08 |
+| `background=00000000`, default colours | `151515` / `464646` | 18.26 / 9.44 | **1.04 / 2.01** |
+| `background=00000000` + Mocha | `cdd6f4` / `a6adc8` | **1.45 / 2.23** | 13.09 / 8.50 |
+| mid-tone Mocha (shipped) | `5d7aa9` / `6f7787` | 4.35 / 4.50 | 4.35 / 4.20 |
+
+Alpha only removes the panel. Legibility is decided entirely by the text fill, which is baked into the SVG. A single palette can clear both canvases only near the luminance crossover, and there the ceiling is **4.35:1** — no colour exceeds it (brute-forced over the grey axis). The shipped palette sits on that ceiling, which is why small card text lands at 4.2–4.5: just under AA 4.5 on one side.
+
+`theme=transparent` reaches 4.06–4.66 by using the same trick with a GitHub-blue palette; it is brighter on white and dimmer on dark than the shipped mid-tone set.
