@@ -87,6 +87,16 @@ node .scratch/preview/serve.mjs            # http://127.0.0.1:8123/
 The server does **not** survive a harness restart — rebuild, restart it, then open
 the URL in the sidebar. See `.scratch/profile-redesign/HANDOFF.md` §7.
 
+For copy tweaks there is a live workbench, which renders through the same GitHub
+API and autosaves the file:
+
+```powershell
+node .scratch/workbench/server.mjs         # http://127.0.0.1:8124/
+```
+
+It writes `README.md` 1.2 s after the last keystroke, so coordinate with the human
+before editing that file while it is open.
+
 ## Delivery
 
 Credentials cannot be supplied by a git credential helper in this environment —
