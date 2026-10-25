@@ -167,10 +167,10 @@ Windows                  18 hrs 21 mins      ███████████�
 ## Awards
 
 <p align="center">
-  <img height="270" alt="Google 5-Day Gen AI Intensive course certificate" src="assets/cert-genai-5day.webp" />
-  <img height="270" alt="Hugging Face Agents course certificate" src="assets/cert-hf.webp" />
+  <img width="438" alt="Google 5-Day Gen AI Intensive course certificate" src="assets/cert-genai-5day.webp" />
+  <img width="382" alt="Hugging Face Agents course certificate" src="assets/cert-hf.webp" />
 </p>
 <p align="center">
-  <img height="328" alt="NVIDIA certificate: Introduction to Transformer-Based Natural Language Processing" src="assets/cert-nvidia-transformer-nlp.webp" />
-  <img height="328" alt="NVIDIA certificate: Accelerating Python applications with CUDA" src="assets/cert-nvidia-cuda-python.webp" />
+  <img width="409" alt="NVIDIA certificate: Introduction to Transformer-Based Natural Language Processing" src="assets/cert-nvidia-transformer-nlp.webp" />
+  <img width="405" alt="NVIDIA certificate: Accelerating Python applications with CUDA" src="assets/cert-nvidia-cuda-python.webp" />
 </p>
