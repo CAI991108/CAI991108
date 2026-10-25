@@ -106,9 +106,6 @@ Coursework lives in the `*-Utils` repos; the CUHK-SZ LaTeX template is [here](ht
   <img width="880" alt="Last year's contribution grid playing snake" src="https://raw.githubusercontent.com/CAI991108/CAI991108/output/snake.svg" />
 </p>
 
-<details>
-<summary><b>Weekly coding stats</b></summary>
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2036%20mins-blue?style=flat-square)
 
@@ -170,16 +167,11 @@ Windows                  18 hrs 21 mins      ███████████�
  Last Updated on 2026-10-25 UTC
 <!--END_SECTION:waka-->
 
-</details>
-
 ## Lab
 
 **Research Fellow** at the [CUHK(Shenzhen) – CROSS Joint Laboratory](https://github.com/CUHKSZ-CROSS-Lab), a joint lab of the School of Artificial Intelligence and Shenzhen Kuafu-Yundun Technology, working on AI for cross-border e-commerce — data governance, demand forecasting, risk control and LLM applications.
 
 ## Awards
-
-<details>
-<summary>Certificates</summary>
 
 <p align="center">
   <img width="470" alt="Google 5-Day Gen AI Intensive course certificate" src="assets/cert-genai-5day.webp" />
@@ -189,14 +181,3 @@ Windows                  18 hrs 21 mins      ███████████�
   <br/>
   <img width="400" alt="Hugging Face course certificate" src="assets/cert-hf.webp" />
 </p>
-
-</details>
-
-<details>
-<summary>中文简介</summary>
-
-CUHK(SZ) 人工智能博士生，研究方向是多模态感知与生成模型。同时在 CUHK(SZ)–CROSS 联合实验室做跨境电商方向的 AI 研究与工程。
-
-在深圳市大数据研究院实习时用 MindOCR 做文本检测与识别；在那之前做了三年量化研究，写 Python 系统、做回测、跑实盘。
-
-</details>
