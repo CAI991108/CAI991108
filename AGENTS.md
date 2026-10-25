@@ -9,6 +9,11 @@ published artefact, not a scratchpad.
 Read `.scratch/profile-redesign/HANDOFF.md` before touching anything: current
 commit, locked design decisions, open threads, and this machine's workarounds.
 
+This workspace owns the profile repo only. The personal site is a separate repo
+with its own workspace (`C:\Users\zcai\Downloads\Project\CAI991108.github.io`,
+handoff in that folder's `HANDOFF.md`); the facts that must stay in sync between
+the two are listed in this repo's handoff §4b.
+
 ## Agent skills
 
 ### Issue tracker
