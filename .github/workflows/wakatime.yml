@@ -22,7 +22,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_AI_CODE_TIME: "False"
           SHOW_COMMIT: "True"
-          SHOW_LANGUAGE: "True"
+          SHOW_LANGUAGE: "False"
           SHOW_EDITORS: "True"
           SHOW_OS: "True"
           SHOW_PROJECTS: "True"

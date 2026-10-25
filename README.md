@@ -142,13 +142,6 @@ Sunday                   56 commits          ███░░░░░░░░�
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages: 
-Other                    27 hrs 19 mins      ██████████████████░░░░░░░   71.96 % 
-Markdown                 6 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Python                   57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-TeX                      37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-Image (png)              30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-
 🔥 Editors: 
 Chrome                   27 hrs 26 mins      ██████████████████░░░░░░░   72.24 % 
 Neovim                   5 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
