@@ -39,25 +39,25 @@ ship tools that outlive the hype
   <img alt="R" src="https://img.shields.io/badge/R-89b4fa?style=flat-square&logo=r&logoColor=1e1e2e" />
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-89b4fa?style=flat-square&logo=latex&logoColor=1e1e2e" />
   <img alt="Shell" src="https://img.shields.io/badge/Shell-89b4fa?style=flat-square&logo=gnubash&logoColor=1e1e2e" />
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-89b4fa?style=flat-square&logo=pytorch&logoColor=1e1e2e" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-89b4fa?style=flat-square&logo=tensorflow&logoColor=1e1e2e" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-89b4fa?style=flat-square&logo=scikitlearn&logoColor=1e1e2e" />
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-89b4fa?style=flat-square&logo=huggingface&logoColor=1e1e2e" />
-  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-89b4fa?style=flat-square&logo=langchain&logoColor=1e1e2e" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-cba6f7?style=flat-square&logo=pytorch&logoColor=1e1e2e" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-cba6f7?style=flat-square&logo=tensorflow&logoColor=1e1e2e" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-cba6f7?style=flat-square&logo=scikitlearn&logoColor=1e1e2e" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-cba6f7?style=flat-square&logo=huggingface&logoColor=1e1e2e" />
+  <img alt="LangChain" src="https://img.shields.io/badge/LangChain-cba6f7?style=flat-square&logo=langchain&logoColor=1e1e2e" />
 </p>
 
 <p>
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-94e2d5?style=flat-square&logo=jupyter&logoColor=1e1e2e" />
-  <img alt="pandas" src="https://img.shields.io/badge/pandas-94e2d5?style=flat-square&logo=pandas&logoColor=1e1e2e" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-94e2d5?style=flat-square&logo=numpy&logoColor=1e1e2e" />
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-94e2d5?style=flat-square&logo=opencv&logoColor=1e1e2e" />
-  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-94e2d5?style=flat-square&logo=nvidia&logoColor=1e1e2e" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-a6e3a1?style=flat-square&logo=jupyter&logoColor=1e1e2e" />
+  <img alt="pandas" src="https://img.shields.io/badge/pandas-a6e3a1?style=flat-square&logo=pandas&logoColor=1e1e2e" />
+  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-a6e3a1?style=flat-square&logo=numpy&logoColor=1e1e2e" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-a6e3a1?style=flat-square&logo=opencv&logoColor=1e1e2e" />
+  <img alt="CUDA" src="https://img.shields.io/badge/CUDA-a6e3a1?style=flat-square&logo=nvidia&logoColor=1e1e2e" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue-94e2d5?style=flat-square&logo=vuedotjs&logoColor=1e1e2e" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-94e2d5?style=flat-square&logo=nodedotjs&logoColor=1e1e2e" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-94e2d5?style=flat-square&logo=nestjs&logoColor=1e1e2e" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-94e2d5?style=flat-square&logo=fastapi&logoColor=1e1e2e" />
   <img alt="XState" src="https://img.shields.io/badge/XState-94e2d5?style=flat-square&logo=xstate&logoColor=1e1e2e" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-94e2d5?style=flat-square&logo=postgresql&logoColor=1e1e2e" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-fab387?style=flat-square&logo=postgresql&logoColor=1e1e2e" />
 </p>
 
 <p>
@@ -66,12 +66,12 @@ ship tools that outlive the hype
   <img alt="Docker" src="https://img.shields.io/badge/Docker-fab387?style=flat-square&logo=docker&logoColor=1e1e2e" />
   <img alt="nginx" src="https://img.shields.io/badge/nginx-fab387?style=flat-square&logo=nginx&logoColor=1e1e2e" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-fab387?style=flat-square&logo=linux&logoColor=1e1e2e" />
-  <img alt="Arch" src="https://img.shields.io/badge/Arch-fab387?style=flat-square&logo=archlinux&logoColor=1e1e2e" />
-  <img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-fab387?style=flat-square&logo=hyprland&logoColor=1e1e2e" />
-  <img alt="tmux" src="https://img.shields.io/badge/tmux-fab387?style=flat-square&logo=tmux&logoColor=1e1e2e" />
-  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-fab387?style=flat-square&logo=neovim&logoColor=1e1e2e" />
-  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-fab387?style=flat-square&logo=pycharm&logoColor=1e1e2e" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-fab387?style=flat-square&logo=git&logoColor=1e1e2e" />
+  <img alt="Arch" src="https://img.shields.io/badge/Arch-b4befe?style=flat-square&logo=archlinux&logoColor=1e1e2e" />
+  <img alt="Hyprland" src="https://img.shields.io/badge/Hyprland-b4befe?style=flat-square&logo=hyprland&logoColor=1e1e2e" />
+  <img alt="tmux" src="https://img.shields.io/badge/tmux-b4befe?style=flat-square&logo=tmux&logoColor=1e1e2e" />
+  <img alt="Neovim" src="https://img.shields.io/badge/Neovim-b4befe?style=flat-square&logo=neovim&logoColor=1e1e2e" />
+  <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-b4befe?style=flat-square&logo=pycharm&logoColor=1e1e2e" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-b4befe?style=flat-square&logo=git&logoColor=1e1e2e" />
 </p>
 
 ## Pinned
