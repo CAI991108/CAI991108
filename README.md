@@ -102,6 +102,10 @@ Coursework lives in the `*-Utils` repos; the CUHK-SZ LaTeX template is [here](ht
 </tr>
 </table>
 
+<p align="center">
+  <img width="880" alt="Last year's contribution grid playing snake" src="https://raw.githubusercontent.com/CAI991108/CAI991108/output/snake.svg" />
+</p>
+
 <details>
 <summary><b>Weekly coding stats</b></summary>
 
