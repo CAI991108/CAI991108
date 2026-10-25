@@ -17,10 +17,11 @@ jobs:
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          # Catppuccin Mocha ramp, transparent background so the one SVG reads
-          # on both GitHub themes (the grid gets brighter as contributions rise).
+          # Mid-tone palette at the luminance crossover, so the same SVG reads on
+          # #ffffff and #0d1117. The dots carry alpha (0 → 100 %) instead of going
+          # from dark to light, which is what made the light theme a black band.
           outputs: |
-            dist/snake.svg?color_snake=#89b4fa&color_dots=#313244,#45475a,#585b70,#7f849c,#cdd6f4
+            dist/snake.svg?color_snake=#876fa5&color_dots=#5d7aa91f,#5d7aa94d,#5d7aa980,#5d7aa9b3,#5d7aa9
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
