@@ -74,10 +74,10 @@ ship tools that outlive the hype
 <table>
 <tr>
 <td width="50%"><a href="https://github.com/CAI991108/omarchy-NTE"><img alt="omarchy-NTE" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=omarchy-NTE&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
-<td width="50%"><a href="https://github.com/CAI991108/dsh-studios"><img alt="dsh-studios" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=dsh-studios&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
+<td width="50%"><a href="https://github.com/Hongru0306/UNSPOKEN"><img alt="UNSPOKEN (Hongru0306)" src="https://github-readme-stats.vercel.app/api/pin/?username=Hongru0306&repo=UNSPOKEN&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/CAI991108/JD_search_agent"><img alt="JD_search_agent" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=JD_search_agent&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
+<td width="50%"><a href="https://github.com/CAI991108/Robotic-Action-Frame-Prediction-with-InstructPix2Pix"><img alt="Robotic-Action-Frame-Prediction-with-InstructPix2Pix" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=Robotic-Action-Frame-Prediction-with-InstructPix2Pix&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
 <td width="50%"><a href="https://github.com/CAI991108/SD3M-SimpleTuner-lora"><img alt="SD3M-SimpleTuner-lora" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=SD3M-SimpleTuner-lora&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
 </tr>
 </table>
