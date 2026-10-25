@@ -14,7 +14,7 @@ jobs:
     name: Generate the snake from the contribution grid
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk/svg-only@v3
+      - uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
         with:
           github_user_name: ${{ github.repository_owner }}
           # Mid-tone palette at the luminance crossover, so the same SVG reads on
@@ -22,7 +22,7 @@ jobs:
           # from dark to light, which is what made the light theme a black band.
           outputs: |
             dist/snake.svg?color_snake=#876fa5&color_dots=#5d7aa91f,#5d7aa94d,#5d7aa980,#5d7aa9b3,#5d7aa9
-      - uses: crazy-max/ghaction-github-pages@v4
+      - uses: crazy-max/ghaction-github-pages@1d6ee9b181a81033a16bd707a1401afa978daab4 # v5.0.0
         with:
           target_branch: output
           build_dir: dist
