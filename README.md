@@ -98,7 +98,7 @@ Coursework lives in the `*-Utils` repos; the CUHK-SZ LaTeX template is [here](ht
 <td width="50%" align="center" rowspan="2"><img width="400" alt="Most used languages by bytes of code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAI991108&layout=compact&langs_count=12&hide_border=true&bg_color=1e1e2e&title_color=89b4fa&text_color=cdd6f4" /></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img width="400" alt="Current and longest contribution streak" src="https://streak-stats.demolab.com?user=CAI991108&hide_border=true&background=1e1e2e&ring=89b4fa&fire=fab387&currStreakLabel=cdd6f4&sideLabels=cdd6f4&dates=6c7086" /></td>
+<td width="50%" align="center"><img width="400" alt="Current and longest contribution streak" src="https://streak-stats.demolab.com?user=CAI991108&hide_border=true&background=1e1e2e&ring=89b4fa&fire=fab387&currStreakLabel=cdd6f4&sideLabels=cdd6f4&dates=a6adc8&currStreakNum=cdd6f4&sideNums=cdd6f4" /></td>
 </tr>
 </table>
 
