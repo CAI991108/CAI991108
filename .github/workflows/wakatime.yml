@@ -29,6 +29,13 @@ jobs:
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_TIMEZONE: "True"
           SHOW_UPDATED_DATE: "True"
+          # SVG bars: crisp, and they can use the page palette
+          BAR_STYLE: "svg"
+          BAR_COLOR: "#5d7aa9"
+          BAR_TRACK_COLOR: "#5d7aa933"
+          BAR_RADIUS: "3"
+          TEXT_PRIMARY_COLOR: "#6f7787"
+          TEXT_SECONDARY_COLOR: "#6f7787"
           UPDATED_DATE_FORMAT: "%Y-%m-%d"
           BADGE_STYLE: "flat-square"
           # Dropped: duplicates the Signals cards, or is noise inside a <details>
