@@ -52,15 +52,16 @@ ship tools that outlive the hype
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-a6e3a1?style=flat-square&logo=numpy&logoColor=1e1e2e" />
   <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-a6e3a1?style=flat-square&logo=opencv&logoColor=1e1e2e" />
   <img alt="CUDA" src="https://img.shields.io/badge/CUDA-a6e3a1?style=flat-square&logo=nvidia&logoColor=1e1e2e" />
+  <img alt="SciPy" src="https://img.shields.io/badge/SciPy-a6e3a1?style=flat-square&logo=scipy&logoColor=1e1e2e" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue-94e2d5?style=flat-square&logo=vuedotjs&logoColor=1e1e2e" />
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-94e2d5?style=flat-square&logo=nodedotjs&logoColor=1e1e2e" />
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-94e2d5?style=flat-square&logo=nestjs&logoColor=1e1e2e" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-94e2d5?style=flat-square&logo=fastapi&logoColor=1e1e2e" />
   <img alt="XState" src="https://img.shields.io/badge/XState-94e2d5?style=flat-square&logo=xstate&logoColor=1e1e2e" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-fab387?style=flat-square&logo=postgresql&logoColor=1e1e2e" />
 </p>
 
 <p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/Postgres-fab387?style=flat-square&logo=postgresql&logoColor=1e1e2e" />
   <img alt="Keycloak" src="https://img.shields.io/badge/Keycloak-fab387?style=flat-square&logo=keycloak&logoColor=1e1e2e" />
   <img alt="MinIO" src="https://img.shields.io/badge/MinIO-fab387?style=flat-square&logo=minio&logoColor=1e1e2e" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker-fab387?style=flat-square&logo=docker&logoColor=1e1e2e" />
