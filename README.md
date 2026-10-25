@@ -73,12 +73,12 @@ ship tools that outlive the hype
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/CAI991108/omarchy-NTE"><img alt="omarchy-NTE" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=omarchy-NTE&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4&icon_color=cba6f7" /></a></td>
-<td width="50%"><a href="https://github.com/CAI991108/dsh-studios"><img alt="dsh-studios" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=dsh-studios&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4&icon_color=cba6f7" /></a></td>
+<td width="50%"><a href="https://github.com/CAI991108/omarchy-NTE"><img alt="omarchy-NTE" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=omarchy-NTE&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
+<td width="50%"><a href="https://github.com/CAI991108/dsh-studios"><img alt="dsh-studios" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=dsh-studios&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/CAI991108/JD_search_agent"><img alt="JD_search_agent" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=JD_search_agent&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4&icon_color=cba6f7" /></a></td>
-<td width="50%"><a href="https://github.com/CAI991108/SD3M-SimpleTuner-lora"><img alt="SD3M-SimpleTuner-lora" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=SD3M-SimpleTuner-lora&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4&icon_color=cba6f7" /></a></td>
+<td width="50%"><a href="https://github.com/CAI991108/JD_search_agent"><img alt="JD_search_agent" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=JD_search_agent&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
+<td width="50%"><a href="https://github.com/CAI991108/SD3M-SimpleTuner-lora"><img alt="SD3M-SimpleTuner-lora" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=SD3M-SimpleTuner-lora&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
 </tr>
 </table>
 
@@ -99,11 +99,11 @@ Coursework lives in the `*-Utils` repos; the CUHK-SZ LaTeX template is [here](ht
 
 <table align="center">
 <tr>
-<td width="50%" align="center"><img width="400" alt="GitHub stats: stars, commits and PRs" src="https://github-readme-stats.vercel.app/api?username=CAI991108&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4&icon_color=cba6f7" /></td>
-<td width="50%" align="center" rowspan="2"><img width="400" alt="Most used languages by bytes of code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAI991108&layout=compact&langs_count=12&hide_border=true&bg_color=0d1117&title_color=89b4fa&text_color=cdd6f4" /></td>
+<td width="50%" align="center"><img width="400" alt="GitHub stats: stars, commits and PRs" src="https://github-readme-stats.vercel.app/api?username=CAI991108&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></td>
+<td width="50%" align="center" rowspan="2"><img width="400" alt="Most used languages by bytes of code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAI991108&layout=compact&langs_count=12&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787" /></td>
 </tr>
 <tr>
-<td width="50%" align="center"><img width="400" alt="Current and longest contribution streak" src="https://streak-stats.demolab.com?user=CAI991108&hide_border=true&background=0d1117&ring=89b4fa&fire=fab387&currStreakLabel=cdd6f4&sideLabels=cdd6f4&dates=a6adc8&currStreakNum=cdd6f4&sideNums=cdd6f4" /></td>
+<td width="50%" align="center"><img width="400" alt="Current and longest contribution streak" src="https://streak-stats.demolab.com?user=CAI991108&hide_border=true&background=00000000&ring=5d7aa9&fire=9b6f54&currStreakLabel=6f7787&sideLabels=6f7787&dates=6f7787&currStreakNum=5d7aa9&sideNums=5d7aa9" /></td>
 </tr>
 </table>
 
