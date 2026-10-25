@@ -17,13 +17,13 @@
   <a href="https://wakatime.com/@CAI991108"><img alt="Total time coded since July 2024" src="https://wakatime.com/badge/user/0a1a641a-17e3-4bcf-8339-f02a8fb3a069.svg" /></a>
 </p>
 
-> **Now:** shipping **omarchy-NTE** · building **dsh-studios** · multimodal models and agents
+> **Now:** shipping **omarchy · dsh** · building **AI research infra** · multimodal agents
 
 ```console
 $ whoami
 zijin — phd.ai @ cuhksz
 $ cat focus.txt
-multimodal · diffusion · agents
+research-stack · ai-infra · multimodal-agents
 $ ls ~/work
 omarchy-NTE  dsh-studios
 crossledger  crossbooks
@@ -88,18 +88,15 @@ ship tools that outlive the hype
 </tr>
 </table>
 
-## Private systems
+## Lab research
 
-Built for the [CUHK(SZ)–CROSS Joint Laboratory](https://github.com/CUHKSZ-CROSS-Lab). Architecture and
-stack, source stays closed:
+Research and systems built for the [CUHK(SZ)–CROSS Joint Laboratory](https://github.com/CUHKSZ-CROSS-Lab).
+Architecture and stack are shown; the source stays closed:
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
 | **CrossLedger** | Three-surface ledger automation: NestJS API, Vue workbench, Python desktop executor — Keycloak SSO, Postgres, MinIO, XState-persisted tasks, Playwright acceptance | `NestJS` `Vue` `Postgres` `Keycloak` `MinIO` |
 | **CrossBooks** | Document intake and verification: per-company authorisation, versioned originals, conflict-safe drafts | `Vue` `Postgres` `Docker` |
-| **CROSS-Studios** | Internal skill library for AI video production, shipped with its own QA gate | `Python` `DSH` |
-
-Coursework lives in the `*-Utils` repos; the CUHK-SZ LaTeX template is [here](https://github.com/CAI991108/CUHKSZ-SAI-LaTeX_Template).
 
 ## Signals
 
@@ -118,9 +115,6 @@ Coursework lives in the `*-Utils` repos; the CUHK-SZ LaTeX template is [here](ht
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2036%20mins-blue?style=flat-square)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2052%20mins-blue?style=flat-square)
 
 **I'm a Night 🦉** 
 
@@ -177,10 +171,6 @@ Windows                  18 hrs 21 mins      ███████████�
 
  Last Updated on 2026-10-25 UTC
 <!--END_SECTION:waka-->
-
-## Lab
-
-**Research Fellow** at the [CUHK(Shenzhen) – CROSS Joint Laboratory](https://github.com/CUHKSZ-CROSS-Lab), a joint lab of the School of Artificial Intelligence and Shenzhen Kuafu-Yundun Technology, working on AI for cross-border e-commerce — data governance, demand forecasting, risk control and LLM applications.
 
 ## Awards
 

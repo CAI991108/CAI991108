@@ -18,9 +18,9 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          # Kept: the two compact badges plus the weekly breakdown
-          SHOW_TOTAL_CODE_TIME: "True"
-          SHOW_AI_CODE_TIME: "True"
+          # The weekly breakdown only; the two summary badges were removed by hand.
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_AI_CODE_TIME: "False"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
           SHOW_EDITORS: "True"
