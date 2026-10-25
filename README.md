@@ -108,7 +108,7 @@ Coursework lives in the `*-Utils` repos; the CUHK-SZ LaTeX template is [here](ht
 </table>
 
 <p align="center">
-  <img width="880" alt="Last year's contribution grid playing snake" src="https://raw.githubusercontent.com/CAI991108/CAI991108/output/snake.svg?v=2" />
+  <img width="880" alt="Last year's contribution grid playing snake" src="https://raw.githubusercontent.com/CAI991108/CAI991108/output/snake.svg?v=3" />
 </p>
 
 <!--START_SECTION:waka-->
