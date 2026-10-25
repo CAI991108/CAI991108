@@ -41,7 +41,7 @@ ship tools that outlive the hype
   <img alt="Shell" src="https://img.shields.io/badge/Shell-89b4fa?style=flat-square&logo=gnubash&logoColor=1e1e2e" />
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-89b4fa?style=flat-square&logo=pytorch&logoColor=1e1e2e" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-89b4fa?style=flat-square&logo=tensorflow&logoColor=1e1e2e" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit-learn-89b4fa?style=flat-square&logo=scikitlearn&logoColor=1e1e2e" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-89b4fa?style=flat-square&logo=scikitlearn&logoColor=1e1e2e" />
   <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-89b4fa?style=flat-square&logo=huggingface&logoColor=1e1e2e" />
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-89b4fa?style=flat-square&logo=langchain&logoColor=1e1e2e" />
 </p>
