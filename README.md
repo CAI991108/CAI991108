@@ -106,42 +106,28 @@ Coursework lives in the `*-Utils` repos; the CUHK-SZ LaTeX template is [here](ht
 <summary><b>Weekly coding stats</b></summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-502%20hrs%2036%20mins-blue?style=flat-square)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-18%20hrs%2052%20mins-blue?style=flat-square)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 1.6 MB Used in GitHub's Storage 
- > 
-> 🏆 209 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 19 Public Repositories 
- > 
-> 🔑 1 Private Repositories 
- > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-🌆 Daytime                157 commits         ████████░░░░░░░░░░░░░░░░░   31.91 % 
-🌃 Evening                228 commits         ████████████░░░░░░░░░░░░░   46.34 % 
-🌙 Night                  86 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.48 % 
+🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+🌆 Daytime                158 commits         ████████░░░░░░░░░░░░░░░░░   32.05 % 
+🌃 Evening                228 commits         ████████████░░░░░░░░░░░░░   46.25 % 
+🌙 Night                  86 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.44 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Tuesday                  53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Wednesday                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Thursday                 121 commits         ██████░░░░░░░░░░░░░░░░░░░   24.59 % 
-Friday                   77 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
-Saturday                 85 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Sunday                   55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Monday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Tuesday                  53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Wednesday                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Thursday                 121 commits         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+Friday                   77 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.62 % 
+Saturday                 85 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.24 % 
+Sunday                   56 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
 ```
 
 
@@ -176,44 +162,8 @@ Linux                    19 hrs 37 mins      ███████████�
 Windows                  18 hrs 21 mins      ████████████░░░░░░░░░░░░░   48.34 % 
 ```
 
-🤖 **AI Coding This Week** 
 
-```text
-⏱ AI Coding Time: 20 mins (0.9%)
-
-✍️ 4,241 lines written by AI, 752 lines written by hand (84.94% AI-written)
-
-🔤 486,774 Input Tokens, 7,600 Output Tokens
-
-💵 $1.57 Estimated AI Cost This Week
-
-🧠 4 AI Sessions, 11 AI Prompts
-
-DeepSeek                 3,770 lines         ██████████████████████░░░   89.10 % 
-Github-Copilot           461 lines           ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-Vscode                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 84.94% of written lines came from AI
-📝 Concise Prompter — average 95 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 18.9% of changed lines were hand-edited
-```
-
-**I Mostly Code in Python** 
-
-```text
-Jupyter Notebook         6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-Vue                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
-TeX                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
-```
-
-
-
-
- Last Updated on 25/10/2026 04:14:53 UTC
+ Last Updated on 2026-10-25 UTC
 <!--END_SECTION:waka-->
 
 </details>
