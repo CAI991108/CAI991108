@@ -118,21 +118,21 @@ Architecture and stack are shown; the source stays closed:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-🌆 Daytime                184 commits         █████████░░░░░░░░░░░░░░░░   35.45 % 
-🌃 Evening                228 commits         ███████████░░░░░░░░░░░░░░   43.93 % 
-🌙 Night                  86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+🌞 Morning                21 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+🌆 Daytime                188 commits         █████████░░░░░░░░░░░░░░░░   35.95 % 
+🌃 Evening                228 commits         ███████████░░░░░░░░░░░░░░   43.59 % 
+🌙 Night                  86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Tuesday                  53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-Wednesday                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Thursday                 121 commits         ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-Friday                   77 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Saturday                 85 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Sunday                   82 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Monday                   39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+Tuesday                  53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.13 % 
+Wednesday                62 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Thursday                 121 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Friday                   77 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
+Saturday                 85 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Sunday                   86 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
 ```
 
 
