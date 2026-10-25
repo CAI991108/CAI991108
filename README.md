@@ -1,7 +1,7 @@
 <h1 align="center">Zijin CAI · 蔡子晋</h1>
 
 <p align="center">
-  <b>PhD in Artificial Intelligence</b> · CUHK(SZ) · Research Fellow @ <a href="https://github.com/CUHKSZ-CROSS-Lab">CROSS Joint Lab</a>
+  <b>PhD in Artificial Intelligence</b> @ CUHK(SZ) | Research Fellow @ <a href="https://github.com/CUHKSZ-CROSS-Lab">CROSS Joint Lab</a>
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@ ship tools that outlive the hype
   <sub>ML &amp; AI</sub><br/>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-cba6f7?style=flat-square&logo=pytorch&logoColor=1e1e2e" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-cba6f7?style=flat-square&logo=tensorflow&logoColor=1e1e2e" />
-  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit-learn-cba6f7?style=flat-square&logo=scikitlearn&logoColor=1e1e2e" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-cba6f7?style=flat-square&logo=scikitlearn&logoColor=1e1e2e" />
   <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-cba6f7?style=flat-square&logo=huggingface&logoColor=1e1e2e" />
   <img alt="LangChain" src="https://img.shields.io/badge/LangChain-cba6f7?style=flat-square&logo=langchain&logoColor=1e1e2e" />
   <img alt="Ollama" src="https://img.shields.io/badge/Ollama-cba6f7?style=flat-square&logo=ollama&logoColor=1e1e2e" />
