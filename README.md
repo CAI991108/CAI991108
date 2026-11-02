@@ -79,12 +79,12 @@ ship tools that outlive the hype
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/CAI991108/omarchy-NTE"><img alt="omarchy-NTE" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=omarchy-NTE&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
-<td width="50%"><a href="https://github.com/Hongru0306/UNSPOKEN"><img alt="UNSPOKEN (Hongru0306)" src="https://github-readme-stats.vercel.app/api/pin/?username=Hongru0306&repo=UNSPOKEN&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
+<td width="50%"><a href="https://github.com/CAI991108/omarchy-NTE"><img alt="omarchy-NTE" src="https://github-stats-extended.vercel.app/api/pin/?username=CAI991108&repo=omarchy-NTE&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
+<td width="50%"><a href="https://github.com/Hongru0306/UNSPOKEN"><img alt="UNSPOKEN (Hongru0306)" src="https://github-stats-extended.vercel.app/api/pin/?username=Hongru0306&repo=UNSPOKEN&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/CAI991108/Robotic-Action-Frame-Prediction-with-InstructPix2Pix"><img alt="Robotic-Action-Frame-Prediction-with-InstructPix2Pix" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=Robotic-Action-Frame-Prediction-with-InstructPix2Pix&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
-<td width="50%"><a href="https://github.com/CAI991108/SD3M-SimpleTuner-lora"><img alt="SD3M-SimpleTuner-lora" src="https://github-readme-stats.vercel.app/api/pin/?username=CAI991108&repo=SD3M-SimpleTuner-lora&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
+<td width="50%"><a href="https://github.com/CAI991108/Robotic-Action-Frame-Prediction-with-InstructPix2Pix"><img alt="Robotic-Action-Frame-Prediction-with-InstructPix2Pix" src="https://github-stats-extended.vercel.app/api/pin/?username=CAI991108&repo=Robotic-Action-Frame-Prediction-with-InstructPix2Pix&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
+<td width="50%"><a href="https://github.com/CAI991108/SD3M-SimpleTuner-lora"><img alt="SD3M-SimpleTuner-lora" src="https://github-stats-extended.vercel.app/api/pin/?username=CAI991108&repo=SD3M-SimpleTuner-lora&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></a></td>
 </tr>
 </table>
 
@@ -102,8 +102,8 @@ Architecture and stack are shown; the source stays closed:
 
 <table align="center">
 <tr>
-<td width="50%" align="center"><img width="400" alt="GitHub stats: stars, commits and PRs" src="https://github-readme-stats.vercel.app/api?username=CAI991108&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></td>
-<td width="50%" align="center" rowspan="2"><img width="400" alt="Most used languages by bytes of code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAI991108&layout=compact&langs_count=12&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787" /></td>
+<td width="50%" align="center"><img width="400" alt="GitHub stats: stars, commits and PRs" src="https://github-stats-extended.vercel.app/api?username=CAI991108&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=86400&bg_color=00000000&title_color=5d7aa9&text_color=6f7787&icon_color=876fa5" /></td>
+<td width="50%" align="center" rowspan="2"><img width="400" alt="Most used languages by bytes of code" src="https://github-stats-extended.vercel.app/api/top-langs/?username=CAI991108&layout=compact&langs_count=12&hide_border=true&bg_color=00000000&title_color=5d7aa9&text_color=6f7787" /></td>
 </tr>
 <tr>
 <td width="50%" align="center"><img width="400" alt="Current and longest contribution streak" src="https://streak-stats.demolab.com?user=CAI991108&hide_border=true&background=00000000&ring=5d7aa9&fire=9b6f54&currStreakLabel=6f7787&sideLabels=6f7787&dates=6f7787&currStreakNum=5d7aa9&sideNums=5d7aa9" /></td>
