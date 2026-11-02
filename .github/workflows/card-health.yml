@@ -1,0 +1,108 @@
+name: Card health check
+
+on:
+  schedule:
+    # Mondays 01:00 UTC = Monday 09:00 Asia/Hong_Kong
+    - cron: '0 1 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: card-health
+  cancel-in-progress: false
+
+jobs:
+  check:
+    name: Check the stats cards still render
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      # No checkout and no third-party action: the README is read through the
+      # API, and curl/gh are already on the runner. Nothing to pin, nothing to
+      # break on a major version bump.
+      - name: Request every card URL found in README.md
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -uo pipefail
+
+          repo="$GITHUB_REPOSITORY"
+          run_url="$GITHUB_SERVER_URL/$repo/actions/runs/$GITHUB_RUN_ID"
+
+          # The list comes from README.md itself, so it cannot drift from the
+          # page: add or drop a card and this follows on the next run.
+          mapfile -t urls < <(
+            gh api -H "Accept: application/vnd.github.raw" "repos/$repo/readme" \
+              | grep -o 'https://github-stats-extended\.vercel\.app[^"]*' \
+              | sort -u
+          )
+
+          if [ "${#urls[@]}" -eq 0 ]; then
+            echo "::error::no card URLs found in README.md"
+            exit 1
+          fi
+          echo "found ${#urls[@]} card URL(s) in README.md"
+
+          failures=()
+          for url in "${urls[@]}"; do
+            body=$(mktemp)
+            headers=$(mktemp)
+            code=$(curl -sSL --max-time 30 -A "card-health-check" \
+              -D "$headers" -o "$body" -w '%{http_code}' "$url") || code=000
+            ctype=$(awk 'BEGIN{IGNORECASE=1} /^content-type:/{v=$2} END{print v}' "$headers" | tr -d '\r')
+
+            # A dead instance can answer 200 with an HTML page or an error
+            # notice, so the status alone is not enough: require an SVG body.
+            if [ "$code" = 200 ] && [ "${ctype#image/svg}" != "$ctype" ] \
+               && head -c 512 "$body" | grep -q '<svg'; then
+              printf 'ok   %s\n' "$url"
+            else
+              printf 'FAIL %s (http %s, %s)\n' "$url" "$code" "${ctype:-no content-type}"
+              failures+=("| \`$code\` | \`${ctype:-—}\` | $url |")
+            fi
+            rm -f "$body" "$headers"
+          done
+
+          open_issue=$(gh issue list --label card-health --state open \
+            --json number --jq '.[0].number' 2>/dev/null || true)
+
+          if [ "${#failures[@]}" -eq 0 ]; then
+            echo "all ${#urls[@]} cards answered 200 with an SVG"
+            if [ -n "${open_issue:-}" ]; then
+              gh issue comment "$open_issue" \
+                --body "All ${#urls[@]} cards answer 200 again: $run_url"
+              gh issue close "$open_issue"
+            fi
+            exit 0
+          fi
+
+          gh label create card-health --color d29922 \
+            --description "Weekly check of the README stats cards" 2>/dev/null || true
+
+          {
+            echo "At least one card in the profile README stopped loading."
+            echo
+            echo "| HTTP | content-type | URL |"
+            echo "| :-- | :-- | :-- |"
+            printf '%s\n' "${failures[@]}"
+            echo
+            echo "Run: $run_url"
+            echo
+            echo "Usual cause: the upstream instance is paused or has moved — the"
+            echo "previous one died with \`x-vercel-error: DEPLOYMENT_PAUSED\`. Check"
+            echo "<https://github-stats-extended.vercel.app> by hand, then either"
+            echo "wait, or swap the host in \`README.md\` (the cards are drop-in"
+            echo "compatible, so the host is the only thing that changes)."
+          } > "$RUNNER_TEMP/body.md"
+
+          if [ -n "${open_issue:-}" ]; then
+            gh issue comment "$open_issue" --body-file "$RUNNER_TEMP/body.md"
+          else
+            gh issue create --title "Stats cards did not load" \
+              --label card-health --body-file "$RUNNER_TEMP/body.md"
+          fi
+
+          exit 1
